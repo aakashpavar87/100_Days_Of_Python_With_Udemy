@@ -1,0 +1,8 @@
+Pack Is Position manager of TKinter
+Syntax: label.pack(side="left")
+
+Place Is another Position manager of TKinter
+Syntax: label.place(x=100, y=100)
+
+Grid Is another Position manager of TKinter
+Syntax: label.grid(column=0, row=1)

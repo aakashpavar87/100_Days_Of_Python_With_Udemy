@@ -1,0 +1,5 @@
+age = (int)(input("Enter your age: "))
+weeks = 52*(90-age)
+months = 12*(90 - age)
+days = 365*(90-age)
+print(f"You have only {days} days , {weeks} weeks and {months} months left in your life")
